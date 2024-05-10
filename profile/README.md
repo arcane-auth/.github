@@ -2,8 +2,8 @@
 <div align="center">
   <a href="https://novu.co?utm_source=github" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arcane-auth/.github/blob/main/profile/banner.png">
-    <img alt="arcane-auth Logo" src="https://github.com/arcane-auth/.github/blob/main/profile/banner.png" width="980"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arcane-auth/.github/blob/main/profile/logo2.png">
+    <img alt="arcane-auth Logo" src="https://github.com/arcane-auth/.github/blob/main/profile/logo2.png" width="580"/>
   </picture>
   </a>
 </div>
